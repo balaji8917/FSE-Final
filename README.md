@@ -1,4 +1,4 @@
-### IIHT FSD Task Management ###
+### IIHT FSD Task Manager ###
 --------------------------------------------
 
 Frontend:
